@@ -1,3 +1,4 @@
+NGINX_HTTPS_ONLY=true
 NGINX_SERVER_NAME=backup.yafb.net
 
 BIND_ADDRESS=0.0.0.0
