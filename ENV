@@ -1,0 +1,4 @@
+NGINX_SERVER_NAME=backup.yafb.net
+
+BIND_ADDRESS=0.0.0.0
+PORT=9898
